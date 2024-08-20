@@ -2,6 +2,8 @@
 
 This is a simple terminal-based implementation of the classic Tetris game. It is designed to be built and run on both Windows and Unix-like systems.
 
+This has been written with AI training in mind, you can play it like a regular game of tetris if you want but it was architected in a way where all the data is easy to go through and pass into a training algorithm.
+
 ## Features
 
 - Classic Tetris gameplay
