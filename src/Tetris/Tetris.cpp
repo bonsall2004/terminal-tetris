@@ -429,6 +429,9 @@ void Tetris::handle_input()
     case 'w':
       rotate();
       break;
+    case 'q':
+      game_running = false;
+      break;
     }
   }
 }
